@@ -1,3 +1,0 @@
-HelloWorld
-==========
-Test GitHub'a
